@@ -1,33 +1,25 @@
-Phantom by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Material Design for Bootstrap
 
+Version: MDB Free 4.1.1
 
-This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
-image tiles (of which you can have as many or as few as you like). Makes use of some
-SVG and animation techniques I've been experimenting with on that other project of mine
-you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
+Documentation:
+http://mdbootstrap.com/
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Getting started:
+http://mdbootstrap.com/getting-started/
 
-(* = not included)
+Tutorials:
+MDB-Bootstrap: http://mdbootstrap.com/bootstrap-tutorial/
+MDB-Wordpress: http://mdbootstrap.com/wordpress-tutorial/
 
-AJ
-aj@lkn.io | @ajlkn
+Templates:
+http://mdbootstrap.com/templates/
 
+License:
+http://mdbootstrap.com/license/
 
-Credits:
+Support:
+http://mdbootstrap.com/forums/forum/support/
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+Contact:
+office@mdbootstrap.com
